@@ -42,3 +42,7 @@ def compito(a,b,c=True):
         print(mul(a,b))
     else:
         print(div(a,b))
+
+
+def potenza(a,b):
+    return a**b
